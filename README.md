@@ -1,6 +1,6 @@
 # Engram
 
-[English](README.en.md) · 可运行草图：[mock/engram_mock.py](mock/engram_mock.py)
+[English](README.en.md) · 可运行草图：[engram_mock.py](engram_mock.py)
 
 带效用归因和编译反补的自进化 Agent 记忆系统。设计稿，服务还没写。文中的组织、人和任务都是虚构例子，不对应任何内部系统。
 
